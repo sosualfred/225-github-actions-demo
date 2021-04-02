@@ -5,7 +5,7 @@ const dayOfTheWeek = (date = new Date()) => {
 }
 
 const addTwoNumbers = (first, second) => {
-    return first + second + 1;
+    return first + second;
 }
 
 
